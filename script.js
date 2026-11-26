@@ -92,7 +92,7 @@ function renderHero() {
     <div class="hero__copy">
       <span class="hero__badge">5+ ans d'expérience</span>
 
-      <h1 class="display">${firstName} <em>${lastName}</em></h1>
+      <h1 class="display">${firstName} ${lastName}</h1>
 
       <p class="hero__role">${escapeHtml(ME.job_title)} <span>·</span> ${escapeHtml(ME.city)}, ${escapeHtml(ME.country)}</p>
       <p class="hero__bio">${escapeHtml(ME.bio)}</p>

@@ -9,7 +9,7 @@ window.PORTFOLIO_DATA = {
     "country": "Madagascar",
     "gender": "Homme",
     "ethnicity": "Noir",
-    "phone_number": "+261326175344",
+    "phone_number": "+261372347774",
     "email": "sakaizanomena@gmail.com",
     "bio": "🚀 Développeur passionné et autodidacte avec 5 ans d’expérience, curieux et adaptable face aux nouvelles technologies. J’utilise l’intelligence artificielle et les outils modernes pour gagner en efficacité, automatiser les tâches répétitives et concevoir des solutions performantes. 🤖💡",
     "birthdate": "03/03/1997",
@@ -27,7 +27,7 @@ window.PORTFOLIO_DATA = {
     "links": [
       {
         "name": "LinkedIn",
-        "url": "https://www.linkedin.com/in/sahaza-nomena-razafimandimby-80b117227",
+        "url": "https://www.linkedin.com/in/ra-nomena-80b117227/",
         "icon": "icons/linkedin-svgrepo-com.svg"
       },
       {
